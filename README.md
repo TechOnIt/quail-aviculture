@@ -1,5 +1,5 @@
 # 🥚 Quail aviculture 🐣
-Quail aviculture automation on Arduino uno. developed on [platformio](https://platformio.org/).
+Quail aviculture automation on [Arduino uno](https://docs.arduino.cc/hardware/uno-rev3). developed on [platformio](https://platformio.org/).
 
 ### 📌 Pin Defines
 #### INPUT Pins:  
