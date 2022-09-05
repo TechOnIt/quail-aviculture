@@ -1,17 +1,17 @@
-# Quail aviculture 🐣
-Quail aviculture automation arduino uno developed on [platformio](https://platformio.org/).
+# 🥚 Quail aviculture 🐣
+Quail aviculture automation on Arduino uno. developed on [platformio](https://platformio.org/).
 
-## 📌 Pin Defines
-### INPUT Pins:  
+### 📌 Pin Defines
+#### INPUT Pins:  
 `#2` Setter tempeture data  
 `#4` Hatcher tempeture data
 
-### 📌 OUTPUT Pins:
+#### OUTPUT Pins:
 `#7` Heater (Lamp)  
 `#12` Fan  
 `#8` Termometer check
 
-## 🌡️ Tempeture
+### 🌡️ Tempeture
 Setter:
 min `37.5 c`
 max `37.7 c`
