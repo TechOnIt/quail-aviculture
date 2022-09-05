@@ -9,7 +9,7 @@ Quail aviculture automation on [Arduino uno](https://docs.arduino.cc/hardware/un
 #### OUTPUT Pins:
 `#7` Heater (Lamp)  
 `#12` Fan  
-`#8` Termometer check
+`#8` Termometer check (It turns on when the thermometer does not give data)
 
 ### 🌡️ Tempeture
 Setter:  
