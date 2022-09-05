@@ -13,9 +13,7 @@ Quail aviculture automation on Arduino uno. developed on [platformio](https://pl
 
 ### 🌡️ Tempeture
 Setter:  
-min `37.5 c`
-max `37.7 c`
+min `37.5 c` - max `37.7 c`
 
 Hatcher:  
-min `37.15 c`
-max `37.25 c`
+min `37.15 c` - max `37.25 c`
