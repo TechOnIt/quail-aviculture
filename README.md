@@ -13,7 +13,7 @@ Quail aviculture automation on [Arduino uno](https://docs.arduino.cc/hardware/un
 
 ### 🌡️ Tempeture
 Setter:  
-min `37.5 c` - max `37.7 c`
+min **37.5c** - max **37.7c**
 
 Hatcher:  
-min `37.15 c` - max `37.25 c`
+min **37.15c** - max **37.25c**
